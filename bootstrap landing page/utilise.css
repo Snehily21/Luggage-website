@@ -1,0 +1,162 @@
+.flex{
+    display: flex;
+}
+
+
+.justify-center{
+    justify-content: center;
+}
+
+
+.align-items{
+    align-items: center;
+}
+
+#bagpack{
+    color:rgb(20, 125, 224);
+}
+
+.table-top table tr td span{
+    padding-left: 24px;
+}
+
+#table3{
+    border: 2px solid rgb(38, 41, 43);
+    margin-left: 10px;
+    padding-right: 100px;
+}
+#table2{
+    border: 2px solid rgb(38, 41, 43);
+    margin-left: 10px;
+    padding-right: 100px;
+}
+#table1{
+    border: 2px solid rgb(38, 41, 43);
+    margin-left: 10px;
+    padding-right: 100px;
+    font-family: 'Baloo 2', cursive;
+    
+}
+
+#table1 {
+    padding-left: 105px;
+    justify-content:center;
+}
+
+#table2 {
+    padding-left: 110px;
+    justify-content:center;
+    font-family: 'Baloo 2', cursive;
+}
+
+#table3 {
+    padding-left: 100px;
+    justify-content:center;
+    font-family: 'Baloo 2', cursive;
+}
+
+#table1 th{
+    border: 1px solid white;
+    padding: 0px;
+   font-size: 2rem;
+    
+    border-radius: 8px;
+    padding-bottom: 20px;
+    
+}
+
+#table1 td{
+
+    
+    padding: 0px;
+}
+
+#table1{
+    padding: 0px;
+    border-radius: 8px;
+    text-align: center;
+   
+    
+}
+
+#table2{
+    padding: 0px;
+    border-radius: 8px;
+    text-align: center;
+
+}
+
+#table3{
+    padding: 0px;
+    border-radius: 8px;
+    text-align: center;
+    
+}
+
+
+#table3 th{
+    border: 1px solid white;
+    padding: 0px;
+   font-size: 2rem;
+    
+    border-radius: 8px;
+    padding-bottom: 20px;
+
+}
+
+#table2 th{
+    border: 1px solid white;
+    padding: 0px;
+   font-size: 2rem;
+    
+    border-radius: 8px;
+    padding-bottom: 20px;
+    
+
+
+}
+#table1 td{
+
+    
+    padding: 10px;
+    padding-top: 0px;
+    color:rgb(81, 70, 82);
+    font-size: 1.5rem;
+}
+#table2 td{
+
+    
+    padding: 10px;
+    padding-top: 0px;
+    color:rgb(81, 70, 82);
+    font-size: 1.5rem;
+}
+#table3 td{
+
+    
+    padding: 10px;
+    
+    color:rgb(81, 70, 82);
+    font-size: 1.5rem;
+    
+}
+
+.span1{
+    font-size: larger;
+
+    margin-right: 30px;
+    font-weight: bolder;
+}
+
+.span2{
+    font-size: large;
+    margin-right: 30px;
+    font-weight: bolder;
+}
+
+.span3{
+    font-size: larger;
+
+    margin-right: 30px;
+    font-weight: bolder;
+}
